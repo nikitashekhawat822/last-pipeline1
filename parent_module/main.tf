@@ -7,4 +7,8 @@ resource "azurerm_resource_group" "nikitaaa" {
   name     = "niksaa"
   location = "east us"
 }
+resource "azurerm_resource_group" "nikitaaaaa" {
+  name     = "niksaaaa"
+  location = "east us"
+}
 
