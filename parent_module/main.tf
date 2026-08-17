@@ -4,11 +4,11 @@ resource "azurerm_resource_group" "rg" {
 }
 
 resource "azurerm_resource_group" "nikitaaa" {
-  name     = "niksaa"
+  name     = "nikitaa"
   location = "east us"
 }
 resource "azurerm_resource_group" "nikitaaaaa" {
-  name     = "niksaaaa11"
+  name     = "nikitaaaaa"
   location = "east us"
 }
 
