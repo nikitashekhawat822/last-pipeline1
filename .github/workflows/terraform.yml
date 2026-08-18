@@ -41,3 +41,7 @@ jobs:
 
       - name: Check Resource Groups
         run: az group list --output table
+      - name: Check New Resource Groups
+        run: |
+       az group show --name runner1 --output table
+       az group show --name runner2 --output table
