@@ -12,3 +12,9 @@ resource "azurerm_resource_group" "runner2" {
   name     = "runner2"
   location = "East US"
 }
+
+
+resource "azurerm_resource_group" "runner2" {
+  name     = "runner3"
+  location = "East US"
+}
